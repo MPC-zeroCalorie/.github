@@ -1,4 +1,4 @@
-## 👋 SWPC 8팀 caffeine
+## 👋 MPC caffeine
 
 🙋‍♀️Hi, we are Team **caffeine** in Hansung University 
 
