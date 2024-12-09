@@ -34,7 +34,7 @@
 </table>
 
 ## 🎥 Demo
-[![Live Demo](https://github.com/user-attachments/assets/f62363dd-9ef6-40b5-8b6e-8bf653fa6fa5)](https://youtu.be/UQsrzBY9jr8)]
+[![Live Demo](https://github.com/user-attachments/assets/f62363dd-9ef6-40b5-8b6e-8bf653fa6fa5)](https://youtu.be/UQsrzBY9jr8)
 
 
 <!--
